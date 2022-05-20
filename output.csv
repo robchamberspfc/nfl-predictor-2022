@@ -1,0 +1,577 @@
+Team,Opponent,Week
+Arizona Cardinals,vs. Kansas City Chiefs,1
+Atlanta Falcons,vs. New Orleans Saints,1
+Baltimore Ravens,@ New York Jets,1
+Buffalo Bills,@ Los Angeles Rams,1
+Carolina Panthers,vs. Cleveland Browns,1
+Chicago Bears,vs. San Francisco 49ers,1
+Cincinnati Bengals,vs. Pittsburgh Steelers,1
+Cleveland Browns,@ Carolina Panthers,1
+Dallas Cowboys,vs. Tampa Bay Buccaneers,1
+Denver Broncos,@ Seattle Seahawks,1
+Detroit Lions,vs. Philadelphia Eagles,1
+Green Bay Packers,@ Minnesota Vikings,1
+Houston Texans,vs. Indianapolis Colts,1
+Indianapolis Colts,@ Houston Texans,1
+Jacksonville Jaguars,@ Washington Commanders,1
+Kansas City Chiefs,@ Arizona Cardinals,1
+Los Angeles Chargers,vs. Las Vegas Raiders,1
+Los Angeles Rams,vs. Buffalo Bills,1
+Las Vegas Raiders,@ Los Angeles Chargers,1
+Miami Dolphins,vs. New England Patriots,1
+Minnesota Vikings,vs. Green Bay Packers,1
+New England Patriots,@ Miami Dolphins,1
+New Orleans Saints,@ Atlanta Falcons,1
+New York Giants,@ Tennessee Titans,1
+New York Jets,vs. Baltimore Ravens,1
+Philadelphia Eagles,@ Detroit Lions,1
+Pittsburgh Steelers,@ Cincinnati Bengals,1
+Seattle Seahawks,vs. Denver Broncos,1
+San Francisco 49ers,@ Chicago Bears,1
+Tampa Bay Buccaneers,@ Dallas Cowboys,1
+Tennessee Titans,vs. New York Giants,1
+Washington Commanders,vs. Jacksonville Jaguars,1
+Arizona Cardinals,@ Las Vegas Raiders,2
+Atlanta Falcons,@ Los Angeles Rams,2
+Baltimore Ravens,vs. Miami Dolphins,2
+Buffalo Bills,vs. Tennessee Titans,2
+Carolina Panthers,@ New York Giants,2
+Chicago Bears,@ Green Bay Packers,2
+Cincinnati Bengals,@ Dallas Cowboys,2
+Cleveland Browns,vs. New York Jets,2
+Dallas Cowboys,vs. Cincinnati Bengals,2
+Denver Broncos,vs. Houston Texans,2
+Detroit Lions,vs. Washington Commanders,2
+Green Bay Packers,vs. Chicago Bears,2
+Houston Texans,@ Denver Broncos,2
+Indianapolis Colts,@ Jacksonville Jaguars,2
+Jacksonville Jaguars,vs. Indianapolis Colts,2
+Kansas City Chiefs,vs. Los Angeles Chargers,2
+Los Angeles Chargers,@ Kansas City Chiefs,2
+Los Angeles Rams,vs. Atlanta Falcons,2
+Las Vegas Raiders,vs. Arizona Cardinals,2
+Miami Dolphins,@ Baltimore Ravens,2
+Minnesota Vikings,@ Philadelphia Eagles,2
+New England Patriots,@ Pittsburgh Steelers,2
+New Orleans Saints,vs. Tampa Bay Buccaneers,2
+New York Giants,vs. Carolina Panthers,2
+New York Jets,@ Cleveland Browns,2
+Philadelphia Eagles,vs. Minnesota Vikings,2
+Pittsburgh Steelers,vs. New England Patriots,2
+Seattle Seahawks,@ San Francisco 49ers,2
+San Francisco 49ers,vs. Seattle Seahawks,2
+Tampa Bay Buccaneers,@ New Orleans Saints,2
+Tennessee Titans,@ Buffalo Bills,2
+Washington Commanders,@ Detroit Lions,2
+Arizona Cardinals,vs. Los Angeles Rams,3
+Atlanta Falcons,@ Seattle Seahawks,3
+Baltimore Ravens,@ New England Patriots,3
+Buffalo Bills,@ Miami Dolphins,3
+Carolina Panthers,vs. New Orleans Saints,3
+Chicago Bears,vs. Houston Texans,3
+Cincinnati Bengals,@ New York Jets,3
+Cleveland Browns,vs. Pittsburgh Steelers,3
+Dallas Cowboys,@ New York Giants,3
+Denver Broncos,vs. San Francisco 49ers,3
+Detroit Lions,@ Minnesota Vikings,3
+Green Bay Packers,@ Tampa Bay Buccaneers,3
+Houston Texans,@ Chicago Bears,3
+Indianapolis Colts,vs. Kansas City Chiefs,3
+Jacksonville Jaguars,@ Los Angeles Chargers,3
+Kansas City Chiefs,@ Indianapolis Colts,3
+Los Angeles Chargers,vs. Jacksonville Jaguars,3
+Los Angeles Rams,@ Arizona Cardinals,3
+Las Vegas Raiders,@ Tennessee Titans,3
+Miami Dolphins,vs. Buffalo Bills,3
+Minnesota Vikings,vs. Detroit Lions,3
+New England Patriots,vs. Baltimore Ravens,3
+New Orleans Saints,@ Carolina Panthers,3
+New York Giants,vs. Dallas Cowboys,3
+New York Jets,vs. Cincinnati Bengals,3
+Philadelphia Eagles,@ Washington Commanders,3
+Pittsburgh Steelers,@ Cleveland Browns,3
+Seattle Seahawks,vs. Atlanta Falcons,3
+San Francisco 49ers,@ Denver Broncos,3
+Tampa Bay Buccaneers,vs. Green Bay Packers,3
+Tennessee Titans,vs. Las Vegas Raiders,3
+Washington Commanders,vs. Philadelphia Eagles,3
+Arizona Cardinals,@ Carolina Panthers,4
+Atlanta Falcons,vs. Cleveland Browns,4
+Baltimore Ravens,vs. Buffalo Bills,4
+Buffalo Bills,@ Baltimore Ravens,4
+Carolina Panthers,vs. Arizona Cardinals,4
+Chicago Bears,@ New York Giants,4
+Cincinnati Bengals,vs. Miami Dolphins,4
+Cleveland Browns,@ Atlanta Falcons,4
+Dallas Cowboys,vs. Washington Commanders,4
+Denver Broncos,@ Las Vegas Raiders,4
+Detroit Lions,vs. Seattle Seahawks,4
+Green Bay Packers,vs. New England Patriots,4
+Houston Texans,vs. Los Angeles Chargers,4
+Indianapolis Colts,vs. Tennessee Titans,4
+Jacksonville Jaguars,@ Philadelphia Eagles,4
+Kansas City Chiefs,@ Tampa Bay Buccaneers,4
+Los Angeles Chargers,@ Houston Texans,4
+Los Angeles Rams,@ San Francisco 49ers,4
+Las Vegas Raiders,vs. Denver Broncos,4
+Miami Dolphins,@ Cincinnati Bengals,4
+Minnesota Vikings,@ New Orleans Saints,4
+New England Patriots,@ Green Bay Packers,4
+New Orleans Saints,vs. Minnesota Vikings,4
+New York Giants,vs. Chicago Bears,4
+New York Jets,@ Pittsburgh Steelers,4
+Philadelphia Eagles,vs. Jacksonville Jaguars,4
+Pittsburgh Steelers,vs. New York Jets,4
+Seattle Seahawks,@ Detroit Lions,4
+San Francisco 49ers,vs. Los Angeles Rams,4
+Tampa Bay Buccaneers,vs. Kansas City Chiefs,4
+Tennessee Titans,@ Indianapolis Colts,4
+Washington Commanders,@ Dallas Cowboys,4
+Arizona Cardinals,vs. Philadelphia Eagles,5
+Atlanta Falcons,@ Tampa Bay Buccaneers,5
+Baltimore Ravens,vs. Cincinnati Bengals,5
+Buffalo Bills,vs. Pittsburgh Steelers,5
+Carolina Panthers,vs. San Francisco 49ers,5
+Chicago Bears,@ Minnesota Vikings,5
+Cincinnati Bengals,@ Baltimore Ravens,5
+Cleveland Browns,vs. Los Angeles Chargers,5
+Dallas Cowboys,@ Los Angeles Rams,5
+Denver Broncos,vs. Indianapolis Colts,5
+Detroit Lions,@ New England Patriots,5
+Green Bay Packers,vs. New York Giants,5
+Houston Texans,@ Jacksonville Jaguars,5
+Indianapolis Colts,@ Denver Broncos,5
+Jacksonville Jaguars,vs. Houston Texans,5
+Kansas City Chiefs,vs. Las Vegas Raiders,5
+Los Angeles Chargers,@ Cleveland Browns,5
+Los Angeles Rams,vs. Dallas Cowboys,5
+Las Vegas Raiders,@ Kansas City Chiefs,5
+Miami Dolphins,@ New York Jets,5
+Minnesota Vikings,vs. Chicago Bears,5
+New England Patriots,vs. Detroit Lions,5
+New Orleans Saints,vs. Seattle Seahawks,5
+New York Giants,@ Green Bay Packers,5
+New York Jets,vs. Miami Dolphins,5
+Philadelphia Eagles,@ Arizona Cardinals,5
+Pittsburgh Steelers,@ Buffalo Bills,5
+Seattle Seahawks,@ New Orleans Saints,5
+San Francisco 49ers,@ Carolina Panthers,5
+Tampa Bay Buccaneers,vs. Atlanta Falcons,5
+Tennessee Titans,@ Washington Commanders,5
+Washington Commanders,vs. Tennessee Titans,5
+Arizona Cardinals,@ Seattle Seahawks,6
+Atlanta Falcons,vs. San Francisco 49ers,6
+Baltimore Ravens,@ New York Giants,6
+Buffalo Bills,@ Kansas City Chiefs,6
+Carolina Panthers,@ Los Angeles Rams,6
+Chicago Bears,vs. Washington Commanders,6
+Cincinnati Bengals,@ New Orleans Saints,6
+Cleveland Browns,vs. New England Patriots,6
+Dallas Cowboys,@ Philadelphia Eagles,6
+Denver Broncos,@ Los Angeles Chargers,6
+Detroit Lions,BYE,6
+Green Bay Packers,vs. New York Jets,6
+Houston Texans,BYE,6
+Indianapolis Colts,vs. Jacksonville Jaguars,6
+Jacksonville Jaguars,@ Indianapolis Colts,6
+Kansas City Chiefs,vs. Buffalo Bills,6
+Los Angeles Chargers,vs. Denver Broncos,6
+Los Angeles Rams,vs. Carolina Panthers,6
+Las Vegas Raiders,BYE,6
+Miami Dolphins,vs. Minnesota Vikings,6
+Minnesota Vikings,@ Miami Dolphins,6
+New England Patriots,@ Cleveland Browns,6
+New Orleans Saints,vs. Cincinnati Bengals,6
+New York Giants,vs. Baltimore Ravens,6
+New York Jets,@ Green Bay Packers,6
+Philadelphia Eagles,vs. Dallas Cowboys,6
+Pittsburgh Steelers,vs. Tampa Bay Buccaneers,6
+Seattle Seahawks,vs. Arizona Cardinals,6
+San Francisco 49ers,@ Atlanta Falcons,6
+Tampa Bay Buccaneers,@ Pittsburgh Steelers,6
+Tennessee Titans,BYE,6
+Washington Commanders,@ Chicago Bears,6
+Arizona Cardinals,vs. New Orleans Saints,7
+Atlanta Falcons,@ Cincinnati Bengals,7
+Baltimore Ravens,vs. Cleveland Browns,7
+Buffalo Bills,BYE,7
+Carolina Panthers,vs. Tampa Bay Buccaneers,7
+Chicago Bears,@ New England Patriots,7
+Cincinnati Bengals,vs. Atlanta Falcons,7
+Cleveland Browns,@ Baltimore Ravens,7
+Dallas Cowboys,vs. Detroit Lions,7
+Denver Broncos,vs. New York Jets,7
+Detroit Lions,@ Dallas Cowboys,7
+Green Bay Packers,@ Washington Commanders,7
+Houston Texans,@ Las Vegas Raiders,7
+Indianapolis Colts,@ Tennessee Titans,7
+Jacksonville Jaguars,vs. New York Giants,7
+Kansas City Chiefs,@ San Francisco 49ers,7
+Los Angeles Chargers,vs. Seattle Seahawks,7
+Los Angeles Rams,BYE,7
+Las Vegas Raiders,vs. Houston Texans,7
+Miami Dolphins,vs. Pittsburgh Steelers,7
+Minnesota Vikings,BYE,7
+New England Patriots,vs. Chicago Bears,7
+New Orleans Saints,@ Arizona Cardinals,7
+New York Giants,@ Jacksonville Jaguars,7
+New York Jets,@ Denver Broncos,7
+Philadelphia Eagles,BYE,7
+Pittsburgh Steelers,@ Miami Dolphins,7
+Seattle Seahawks,@ Los Angeles Chargers,7
+San Francisco 49ers,vs. Kansas City Chiefs,7
+Tampa Bay Buccaneers,@ Carolina Panthers,7
+Tennessee Titans,vs. Indianapolis Colts,7
+Washington Commanders,vs. Green Bay Packers,7
+Arizona Cardinals,@ Minnesota Vikings,8
+Atlanta Falcons,vs. Carolina Panthers,8
+Baltimore Ravens,@ Tampa Bay Buccaneers,8
+Buffalo Bills,vs. Green Bay Packers,8
+Carolina Panthers,@ Atlanta Falcons,8
+Chicago Bears,@ Dallas Cowboys,8
+Cincinnati Bengals,@ Cleveland Browns,8
+Cleveland Browns,vs. Cincinnati Bengals,8
+Dallas Cowboys,vs. Chicago Bears,8
+Denver Broncos,@ Jacksonville Jaguars,8
+Detroit Lions,vs. Miami Dolphins,8
+Green Bay Packers,@ Buffalo Bills,8
+Houston Texans,vs. Tennessee Titans,8
+Indianapolis Colts,vs. Washington Commanders,8
+Jacksonville Jaguars,vs. Denver Broncos,8
+Kansas City Chiefs,BYE,8
+Los Angeles Chargers,BYE,8
+Los Angeles Rams,vs. San Francisco 49ers,8
+Las Vegas Raiders,@ New Orleans Saints,8
+Miami Dolphins,@ Detroit Lions,8
+Minnesota Vikings,vs. Arizona Cardinals,8
+New England Patriots,@ New York Jets,8
+New Orleans Saints,vs. Las Vegas Raiders,8
+New York Giants,@ Seattle Seahawks,8
+New York Jets,vs. New England Patriots,8
+Philadelphia Eagles,vs. Pittsburgh Steelers,8
+Pittsburgh Steelers,@ Philadelphia Eagles,8
+Seattle Seahawks,vs. New York Giants,8
+San Francisco 49ers,@ Los Angeles Rams,8
+Tampa Bay Buccaneers,vs. Baltimore Ravens,8
+Tennessee Titans,@ Houston Texans,8
+Washington Commanders,@ Indianapolis Colts,8
+Arizona Cardinals,vs. Seattle Seahawks,9
+Atlanta Falcons,vs. Los Angeles Chargers,9
+Baltimore Ravens,@ New Orleans Saints,9
+Buffalo Bills,@ New York Jets,9
+Carolina Panthers,@ Cincinnati Bengals,9
+Chicago Bears,vs. Miami Dolphins,9
+Cincinnati Bengals,vs. Carolina Panthers,9
+Cleveland Browns,BYE,9
+Dallas Cowboys,BYE,9
+Denver Broncos,BYE,9
+Detroit Lions,vs. Green Bay Packers,9
+Green Bay Packers,@ Detroit Lions,9
+Houston Texans,vs. Philadelphia Eagles,9
+Indianapolis Colts,@ New England Patriots,9
+Jacksonville Jaguars,vs. Las Vegas Raiders,9
+Kansas City Chiefs,vs. Tennessee Titans,9
+Los Angeles Chargers,@ Atlanta Falcons,9
+Los Angeles Rams,@ Tampa Bay Buccaneers,9
+Las Vegas Raiders,@ Jacksonville Jaguars,9
+Miami Dolphins,@ Chicago Bears,9
+Minnesota Vikings,@ Washington Commanders,9
+New England Patriots,vs. Indianapolis Colts,9
+New Orleans Saints,vs. Baltimore Ravens,9
+New York Giants,BYE,9
+New York Jets,vs. Buffalo Bills,9
+Philadelphia Eagles,@ Houston Texans,9
+Pittsburgh Steelers,BYE,9
+Seattle Seahawks,@ Arizona Cardinals,9
+San Francisco 49ers,BYE,9
+Tampa Bay Buccaneers,vs. Los Angeles Rams,9
+Tennessee Titans,@ Kansas City Chiefs,9
+Washington Commanders,vs. Minnesota Vikings,9
+Arizona Cardinals,@ Los Angeles Rams,10
+Atlanta Falcons,@ Carolina Panthers,10
+Baltimore Ravens,BYE,10
+Buffalo Bills,vs. Minnesota Vikings,10
+Carolina Panthers,vs. Atlanta Falcons,10
+Chicago Bears,vs. Detroit Lions,10
+Cincinnati Bengals,BYE,10
+Cleveland Browns,@ Miami Dolphins,10
+Dallas Cowboys,@ Green Bay Packers,10
+Denver Broncos,@ Tennessee Titans,10
+Detroit Lions,@ Chicago Bears,10
+Green Bay Packers,vs. Dallas Cowboys,10
+Houston Texans,@ New York Giants,10
+Indianapolis Colts,@ Las Vegas Raiders,10
+Jacksonville Jaguars,@ Kansas City Chiefs,10
+Kansas City Chiefs,vs. Jacksonville Jaguars,10
+Los Angeles Chargers,@ San Francisco 49ers,10
+Los Angeles Rams,vs. Arizona Cardinals,10
+Las Vegas Raiders,vs. Indianapolis Colts,10
+Miami Dolphins,vs. Cleveland Browns,10
+Minnesota Vikings,@ Buffalo Bills,10
+New England Patriots,BYE,10
+New Orleans Saints,@ Pittsburgh Steelers,10
+New York Giants,vs. Houston Texans,10
+New York Jets,BYE,10
+Philadelphia Eagles,vs. Washington Commanders,10
+Pittsburgh Steelers,vs. New Orleans Saints,10
+Seattle Seahawks,@ Tampa Bay Buccaneers,10
+San Francisco 49ers,vs. Los Angeles Chargers,10
+Tampa Bay Buccaneers,vs. Seattle Seahawks,10
+Tennessee Titans,vs. Denver Broncos,10
+Washington Commanders,@ Philadelphia Eagles,10
+Arizona Cardinals,vs. San Francisco 49ers,11
+Atlanta Falcons,vs. Chicago Bears,11
+Baltimore Ravens,vs. Carolina Panthers,11
+Buffalo Bills,vs. Cleveland Browns,11
+Carolina Panthers,@ Baltimore Ravens,11
+Chicago Bears,@ Atlanta Falcons,11
+Cincinnati Bengals,@ Pittsburgh Steelers,11
+Cleveland Browns,@ Buffalo Bills,11
+Dallas Cowboys,@ Minnesota Vikings,11
+Denver Broncos,vs. Las Vegas Raiders,11
+Detroit Lions,@ New York Giants,11
+Green Bay Packers,vs. Tennessee Titans,11
+Houston Texans,vs. Washington Commanders,11
+Indianapolis Colts,vs. Philadelphia Eagles,11
+Jacksonville Jaguars,BYE,11
+Kansas City Chiefs,@ Los Angeles Chargers,11
+Los Angeles Chargers,vs. Kansas City Chiefs,11
+Los Angeles Rams,@ New Orleans Saints,11
+Las Vegas Raiders,@ Denver Broncos,11
+Miami Dolphins,BYE,11
+Minnesota Vikings,vs. Dallas Cowboys,11
+New England Patriots,vs. New York Jets,11
+New Orleans Saints,vs. Los Angeles Rams,11
+New York Giants,vs. Detroit Lions,11
+New York Jets,@ New England Patriots,11
+Philadelphia Eagles,@ Indianapolis Colts,11
+Pittsburgh Steelers,vs. Cincinnati Bengals,11
+Seattle Seahawks,BYE,11
+San Francisco 49ers,@ Arizona Cardinals,11
+Tampa Bay Buccaneers,BYE,11
+Tennessee Titans,@ Green Bay Packers,11
+Washington Commanders,@ Houston Texans,11
+Arizona Cardinals,vs. Los Angeles Chargers,12
+Atlanta Falcons,@ Washington Commanders,12
+Baltimore Ravens,@ Jacksonville Jaguars,12
+Buffalo Bills,@ Detroit Lions,12
+Carolina Panthers,vs. Denver Broncos,12
+Chicago Bears,@ New York Jets,12
+Cincinnati Bengals,@ Tennessee Titans,12
+Cleveland Browns,vs. Tampa Bay Buccaneers,12
+Dallas Cowboys,vs. New York Giants,12
+Denver Broncos,@ Carolina Panthers,12
+Detroit Lions,vs. Buffalo Bills,12
+Green Bay Packers,@ Philadelphia Eagles,12
+Houston Texans,@ Miami Dolphins,12
+Indianapolis Colts,vs. Pittsburgh Steelers,12
+Jacksonville Jaguars,vs. Baltimore Ravens,12
+Kansas City Chiefs,vs. Los Angeles Rams,12
+Los Angeles Chargers,@ Arizona Cardinals,12
+Los Angeles Rams,@ Kansas City Chiefs,12
+Las Vegas Raiders,@ Seattle Seahawks,12
+Miami Dolphins,vs. Houston Texans,12
+Minnesota Vikings,vs. New England Patriots,12
+New England Patriots,@ Minnesota Vikings,12
+New Orleans Saints,@ San Francisco 49ers,12
+New York Giants,@ Dallas Cowboys,12
+New York Jets,vs. Chicago Bears,12
+Philadelphia Eagles,vs. Green Bay Packers,12
+Pittsburgh Steelers,@ Indianapolis Colts,12
+Seattle Seahawks,vs. Las Vegas Raiders,12
+San Francisco 49ers,vs. New Orleans Saints,12
+Tampa Bay Buccaneers,@ Cleveland Browns,12
+Tennessee Titans,vs. Cincinnati Bengals,12
+Washington Commanders,vs. Atlanta Falcons,12
+Arizona Cardinals,BYE,13
+Atlanta Falcons,vs. Pittsburgh Steelers,13
+Baltimore Ravens,vs. Denver Broncos,13
+Buffalo Bills,@ New England Patriots,13
+Carolina Panthers,BYE,13
+Chicago Bears,vs. Green Bay Packers,13
+Cincinnati Bengals,vs. Kansas City Chiefs,13
+Cleveland Browns,@ Houston Texans,13
+Dallas Cowboys,vs. Indianapolis Colts,13
+Denver Broncos,@ Baltimore Ravens,13
+Detroit Lions,vs. Jacksonville Jaguars,13
+Green Bay Packers,@ Chicago Bears,13
+Houston Texans,vs. Cleveland Browns,13
+Indianapolis Colts,@ Dallas Cowboys,13
+Jacksonville Jaguars,@ Detroit Lions,13
+Kansas City Chiefs,@ Cincinnati Bengals,13
+Los Angeles Chargers,@ Las Vegas Raiders,13
+Los Angeles Rams,vs. Seattle Seahawks,13
+Las Vegas Raiders,vs. Los Angeles Chargers,13
+Miami Dolphins,@ San Francisco 49ers,13
+Minnesota Vikings,vs. New York Jets,13
+New England Patriots,vs. Buffalo Bills,13
+New Orleans Saints,@ Tampa Bay Buccaneers,13
+New York Giants,vs. Washington Commanders,13
+New York Jets,@ Minnesota Vikings,13
+Philadelphia Eagles,vs. Tennessee Titans,13
+Pittsburgh Steelers,@ Atlanta Falcons,13
+Seattle Seahawks,@ Los Angeles Rams,13
+San Francisco 49ers,vs. Miami Dolphins,13
+Tampa Bay Buccaneers,vs. New Orleans Saints,13
+Tennessee Titans,@ Philadelphia Eagles,13
+Washington Commanders,@ New York Giants,13
+Arizona Cardinals,vs. New England Patriots,14
+Atlanta Falcons,BYE,14
+Baltimore Ravens,@ Pittsburgh Steelers,14
+Buffalo Bills,vs. New York Jets,14
+Carolina Panthers,@ Seattle Seahawks,14
+Chicago Bears,BYE,14
+Cincinnati Bengals,vs. Cleveland Browns,14
+Cleveland Browns,@ Cincinnati Bengals,14
+Dallas Cowboys,vs. Houston Texans,14
+Denver Broncos,vs. Kansas City Chiefs,14
+Detroit Lions,vs. Minnesota Vikings,14
+Green Bay Packers,BYE,14
+Houston Texans,@ Dallas Cowboys,14
+Indianapolis Colts,BYE,14
+Jacksonville Jaguars,@ Tennessee Titans,14
+Kansas City Chiefs,@ Denver Broncos,14
+Los Angeles Chargers,vs. Miami Dolphins,14
+Los Angeles Rams,vs. Las Vegas Raiders,14
+Las Vegas Raiders,@ Los Angeles Rams,14
+Miami Dolphins,@ Los Angeles Chargers,14
+Minnesota Vikings,@ Detroit Lions,14
+New England Patriots,@ Arizona Cardinals,14
+New Orleans Saints,BYE,14
+New York Giants,vs. Philadelphia Eagles,14
+New York Jets,@ Buffalo Bills,14
+Philadelphia Eagles,@ New York Giants,14
+Pittsburgh Steelers,vs. Baltimore Ravens,14
+Seattle Seahawks,vs. Carolina Panthers,14
+San Francisco 49ers,vs. Tampa Bay Buccaneers,14
+Tampa Bay Buccaneers,@ San Francisco 49ers,14
+Tennessee Titans,vs. Jacksonville Jaguars,14
+Washington Commanders,BYE,14
+Arizona Cardinals,@ Denver Broncos,15
+Atlanta Falcons,@ New Orleans Saints,15
+Baltimore Ravens,@ Cleveland Browns,15
+Buffalo Bills,vs. Miami Dolphins,15
+Carolina Panthers,vs. Pittsburgh Steelers,15
+Chicago Bears,vs. Philadelphia Eagles,15
+Cincinnati Bengals,@ Tampa Bay Buccaneers,15
+Cleveland Browns,vs. Baltimore Ravens,15
+Dallas Cowboys,@ Jacksonville Jaguars,15
+Denver Broncos,vs. Arizona Cardinals,15
+Detroit Lions,@ New York Jets,15
+Green Bay Packers,vs. Los Angeles Rams,15
+Houston Texans,vs. Kansas City Chiefs,15
+Indianapolis Colts,@ Minnesota Vikings,15
+Jacksonville Jaguars,vs. Dallas Cowboys,15
+Kansas City Chiefs,@ Houston Texans,15
+Los Angeles Chargers,vs. Tennessee Titans,15
+Los Angeles Rams,@ Green Bay Packers,15
+Las Vegas Raiders,vs. New England Patriots,15
+Miami Dolphins,@ Buffalo Bills,15
+Minnesota Vikings,vs. Indianapolis Colts,15
+New England Patriots,@ Las Vegas Raiders,15
+New Orleans Saints,vs. Atlanta Falcons,15
+New York Giants,@ Washington Commanders,15
+New York Jets,vs. Detroit Lions,15
+Philadelphia Eagles,@ Chicago Bears,15
+Pittsburgh Steelers,@ Carolina Panthers,15
+Seattle Seahawks,vs. San Francisco 49ers,15
+San Francisco 49ers,@ Seattle Seahawks,15
+Tampa Bay Buccaneers,vs. Cincinnati Bengals,15
+Tennessee Titans,@ Los Angeles Chargers,15
+Washington Commanders,vs. New York Giants,15
+Arizona Cardinals,vs. Tampa Bay Buccaneers,16
+Atlanta Falcons,@ Baltimore Ravens,16
+Baltimore Ravens,vs. Atlanta Falcons,16
+Buffalo Bills,@ Chicago Bears,16
+Carolina Panthers,vs. Detroit Lions,16
+Chicago Bears,vs. Buffalo Bills,16
+Cincinnati Bengals,@ New England Patriots,16
+Cleveland Browns,vs. New Orleans Saints,16
+Dallas Cowboys,vs. Philadelphia Eagles,16
+Denver Broncos,@ Los Angeles Rams,16
+Detroit Lions,@ Carolina Panthers,16
+Green Bay Packers,@ Miami Dolphins,16
+Houston Texans,@ Tennessee Titans,16
+Indianapolis Colts,vs. Los Angeles Chargers,16
+Jacksonville Jaguars,@ New York Jets,16
+Kansas City Chiefs,vs. Seattle Seahawks,16
+Los Angeles Chargers,@ Indianapolis Colts,16
+Los Angeles Rams,vs. Denver Broncos,16
+Las Vegas Raiders,@ Pittsburgh Steelers,16
+Miami Dolphins,vs. Green Bay Packers,16
+Minnesota Vikings,vs. New York Giants,16
+New England Patriots,vs. Cincinnati Bengals,16
+New Orleans Saints,@ Cleveland Browns,16
+New York Giants,@ Minnesota Vikings,16
+New York Jets,vs. Jacksonville Jaguars,16
+Philadelphia Eagles,@ Dallas Cowboys,16
+Pittsburgh Steelers,vs. Las Vegas Raiders,16
+Seattle Seahawks,@ Kansas City Chiefs,16
+San Francisco 49ers,vs. Washington Commanders,16
+Tampa Bay Buccaneers,@ Arizona Cardinals,16
+Tennessee Titans,vs. Houston Texans,16
+Washington Commanders,@ San Francisco 49ers,16
+Arizona Cardinals,@ Atlanta Falcons,17
+Atlanta Falcons,vs. Arizona Cardinals,17
+Baltimore Ravens,vs. Pittsburgh Steelers,17
+Buffalo Bills,@ Cincinnati Bengals,17
+Carolina Panthers,@ Tampa Bay Buccaneers,17
+Chicago Bears,@ Detroit Lions,17
+Cincinnati Bengals,vs. Buffalo Bills,17
+Cleveland Browns,@ Washington Commanders,17
+Dallas Cowboys,@ Tennessee Titans,17
+Denver Broncos,@ Kansas City Chiefs,17
+Detroit Lions,vs. Chicago Bears,17
+Green Bay Packers,vs. Minnesota Vikings,17
+Houston Texans,vs. Jacksonville Jaguars,17
+Indianapolis Colts,@ New York Giants,17
+Jacksonville Jaguars,@ Houston Texans,17
+Kansas City Chiefs,vs. Denver Broncos,17
+Los Angeles Chargers,vs. Los Angeles Rams,17
+Los Angeles Rams,@ Los Angeles Chargers,17
+Las Vegas Raiders,vs. San Francisco 49ers,17
+Miami Dolphins,@ New England Patriots,17
+Minnesota Vikings,@ Green Bay Packers,17
+New England Patriots,vs. Miami Dolphins,17
+New Orleans Saints,@ Philadelphia Eagles,17
+New York Giants,vs. Indianapolis Colts,17
+New York Jets,@ Seattle Seahawks,17
+Philadelphia Eagles,vs. New Orleans Saints,17
+Pittsburgh Steelers,@ Baltimore Ravens,17
+Seattle Seahawks,vs. New York Jets,17
+San Francisco 49ers,@ Las Vegas Raiders,17
+Tampa Bay Buccaneers,vs. Carolina Panthers,17
+Tennessee Titans,vs. Dallas Cowboys,17
+Washington Commanders,vs. Cleveland Browns,17
+Arizona Cardinals,@ San Francisco 49ers,18
+Atlanta Falcons,vs. Tampa Bay Buccaneers,18
+Baltimore Ravens,@ Cincinnati Bengals,18
+Buffalo Bills,vs. New England Patriots,18
+Carolina Panthers,@ New Orleans Saints,18
+Chicago Bears,vs. Minnesota Vikings,18
+Cincinnati Bengals,vs. Baltimore Ravens,18
+Cleveland Browns,@ Pittsburgh Steelers,18
+Dallas Cowboys,@ Washington Commanders,18
+Denver Broncos,vs. Los Angeles Chargers,18
+Detroit Lions,@ Green Bay Packers,18
+Green Bay Packers,vs. Detroit Lions,18
+Houston Texans,@ Indianapolis Colts,18
+Indianapolis Colts,vs. Houston Texans,18
+Jacksonville Jaguars,vs. Tennessee Titans,18
+Kansas City Chiefs,@ Las Vegas Raiders,18
+Los Angeles Chargers,@ Denver Broncos,18
+Los Angeles Rams,@ Seattle Seahawks,18
+Las Vegas Raiders,vs. Kansas City Chiefs,18
+Miami Dolphins,vs. New York Jets,18
+Minnesota Vikings,@ Chicago Bears,18
+New England Patriots,@ Buffalo Bills,18
+New Orleans Saints,vs. Carolina Panthers,18
+New York Giants,@ Philadelphia Eagles,18
+New York Jets,@ Miami Dolphins,18
+Philadelphia Eagles,vs. New York Giants,18
+Pittsburgh Steelers,vs. Cleveland Browns,18
+Seattle Seahawks,vs. Los Angeles Rams,18
+San Francisco 49ers,vs. Arizona Cardinals,18
+Tampa Bay Buccaneers,@ Atlanta Falcons,18
+Tennessee Titans,@ Jacksonville Jaguars,18
+Washington Commanders,vs. Dallas Cowboys,18
