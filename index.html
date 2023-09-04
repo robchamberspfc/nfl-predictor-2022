@@ -85,7 +85,7 @@
         getFixtures = (team) => {
             schedule = []
             content.innerHTML = ''
-            d3.csv("output.csv", function (data) {
+            d3.csv("2023.csv", function (data) {
                 for (let i = 0; i < data.length; i++) {
                     if (data[i].Team == team) {
                         schedule.push({
